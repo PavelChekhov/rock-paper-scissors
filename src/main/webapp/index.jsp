@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Why are you so serious?</title>																																																						<html>
+<title>Rock Paper Scissors!!!</title>																																																						<html>
 </head>
 
    <body>
